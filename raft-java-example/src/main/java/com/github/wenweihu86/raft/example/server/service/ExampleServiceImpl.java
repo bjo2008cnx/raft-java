@@ -1,8 +1,6 @@
-package com.github.wenweihu86.raft.example.server.service.impl;
+package com.github.wenweihu86.raft.example.server.service;
 
 import com.github.wenweihu86.raft.example.server.ExampleStateMachine;
-import com.github.wenweihu86.raft.example.server.service.ExampleMessage;
-import com.github.wenweihu86.raft.example.server.service.ExampleService;
 import com.github.wenweihu86.raft.RaftNode;
 import com.github.wenweihu86.raft.proto.RaftMessage;
 import com.github.wenweihu86.rpc.client.RPCClient;

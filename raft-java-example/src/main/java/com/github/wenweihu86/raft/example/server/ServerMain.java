@@ -3,7 +3,7 @@ package com.github.wenweihu86.raft.example.server;
 import com.github.wenweihu86.raft.RaftOptions;
 import com.github.wenweihu86.raft.example.server.service.ExampleService;
 import com.github.wenweihu86.raft.RaftNode;
-import com.github.wenweihu86.raft.example.server.service.impl.ExampleServiceImpl;
+import com.github.wenweihu86.raft.example.server.service.ExampleServiceImpl;
 import com.github.wenweihu86.raft.proto.RaftMessage;
 import com.github.wenweihu86.raft.service.RaftClientService;
 import com.github.wenweihu86.raft.service.RaftConsensusService;
